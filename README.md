@@ -1,7 +1,7 @@
 # Brijay-Shetty
 Data science portfolio
 
-[## Project 1 : Heart Disease : Project Overview](https://brijayshetty.github.io/Brijay-Shetty/)
+# [Project 1 : Heart Disease : Project Overview](https://brijayshetty.github.io/Brijay-Shetty/)
 
 - Built a machine learning model to classify if the given data of a patient should tell if the patient is at the risk of a heart attack. 
 - Checked and remove any and all null values, completely cleaned the data.
